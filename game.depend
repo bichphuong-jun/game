@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1747244093 source:c:\jun\game\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1746719919 source:c:\users\phuon\onedrive\desktop\bt\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	<SDL_ttf.h>
+
+1747247449 source:c:\jun\game\level.cpp
+	<SDL.h>
+	<stdio.h>
+	<vector>
+	<string>
+	<SDL_ttf.h>
+
+1747247307 source:c:\jun\game\reset.cpp
+	<stdio.h>
+	<vector>
+	"level.h"
+
+1747247717 c:\jun\game\level.h
+	<SDL.h>
+	<stdio.h>
+	<vector>
+	<string>
+	<SDL_ttf.h>
+
+1747248799 source:c:\jun\game\def.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
